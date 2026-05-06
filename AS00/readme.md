@@ -713,7 +713,7 @@ it following the instructions in the Submission section.
 > at Seneca
 
 ``` bash
-~profname.proflastname/submit 2??/wX/lab_sss <ENTER>
+~profname.proflastname/submit 2??/aX/lab_sss <ENTER>
 ```
 
 -   Replace **??** with your subject code (`00 or 44`)
@@ -723,7 +723,7 @@ it following the instructions in the Submission section.
 ### Reflection Submission
 
 ``` bash
-~profname.proflastname/submit 2??/wX/ref_sss <ENTER>
+~profname.proflastname/submit 2??/aX/ref_sss <ENTER>
 ```
 
 -   Replace **??** with your subject code (`00 or 44`)
