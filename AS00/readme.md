@@ -534,7 +534,7 @@ Open the Terminal application on your Apple Computers and issue this
 command:
 
 ``` zsh
-echo @SHELL
+echo ?0
 ```
 
 If the outcome is `/bin/bash`, then the name of the file remains
