@@ -135,8 +135,8 @@ Implement the following four functions in `dma.cpp`:
 -   Copies existing values and then appends new values.
 -   Frees the old array
 -   Updates the deleted `data` pointer to the newly allocated memory \>
-    reflect: Why `int*&` is needed here and not `int*`? \### 4.
-    `void freemem(Samples*& s);`
+    reflect: Why `int*&` is needed here and not `int*`?
+### 4. `void freemem(Samples*& s);`
 -   Deallocates:
     -   `m_title`
     -   `m_data`
